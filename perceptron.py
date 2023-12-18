@@ -1,5 +1,6 @@
 # Ogochukwu Jane Okafor
-# 201666459
+
+# PERCEPTRON ALGORITHM
 
 import pandas as pd
 import numpy as np
