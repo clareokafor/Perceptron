@@ -92,7 +92,7 @@ These results indicate that a lower regularization coefficient is optimal, as st
   - *Class 2 vs. Class 3:* 92.50%
   - *Class 1 vs. Class 3:* 89.74%
 
-> _Note:_ The binary classification between class 2 and class 3 performed the worst, suggesting these two classes are difficult to differentiate.
+> _Note:_ The binary classification between class 1 and class 3 performed the worst, suggesting these two classes are difficult to differentiate.
 
 ### One-vs-Rest Classification
 
