@@ -122,5 +122,5 @@ These results indicate that a lower regularization coefficient is optimal, as st
 
 ---
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/clareokafor/Perceptron/blob/main/LICENSE.txt)file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/clareokafor/Perceptron/blob/main/LICENSE.txt) file for more details.
 
